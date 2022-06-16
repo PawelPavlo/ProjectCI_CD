@@ -6,9 +6,10 @@
     width: 100%;
     height: 100vh;
     display:flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(113 138 147 / 50%);
+    background: linear-gradient(125deg,#f62b48,#1e73c3,#f62b48);
     }
     h1,h2{
     text-align: center;
