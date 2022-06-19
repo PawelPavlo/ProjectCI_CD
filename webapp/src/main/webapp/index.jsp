@@ -9,7 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-pixabay-531880.jpg");
+    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-krivec-ales-547114.jpg");
     height: 100%;
     width:100%;;
     }
@@ -23,9 +23,9 @@
 <div>
 
      <h1> Hello, Welcome to Pavlo Vikhrak DevOps Project !! </h1>
-     <h2> Deploying using ansible and Docker </h2>
+     <h1> Deploying using ansible and Docker </h1>
      <h2> Solja Pruvit </h2>
-     <h2> CICD PipeLine using GCP</h2>
+     <h1> CICD PipeLine using GCP</h1>
      <h2> Good Evening All </h2>
 
 </div>
