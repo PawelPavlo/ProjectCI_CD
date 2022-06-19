@@ -9,7 +9,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#115cce, #c6f12b);;
+    background-image: url("https://www.pexels.com/photo/wooden-long-table-with-brown-chairs-7195551/");
+    height: 400px;
+    width:450px;;
     }
     h1,h2{
     text-align: center;
