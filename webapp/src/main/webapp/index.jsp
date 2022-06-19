@@ -9,9 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-pixabay-531880.jpg");
-    height: 100%;
-    width:100%;;
+    background: linear-gradient(#115cce, #c6f12b);;
     }
     h1,h2{
     text-align: center;
