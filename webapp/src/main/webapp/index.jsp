@@ -9,9 +9,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-krivec-ales-547114.jpg");
-    height: 50%;
-    width:50%;;
+    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-pixabay-531880.jpg");
+    height: 100%;
+    width:100%;;
     }
     h1,h2{
     text-align: center;
