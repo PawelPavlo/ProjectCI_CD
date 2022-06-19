@@ -9,7 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-photo-1591447.jpeg");
+    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-pixabay-531880.jpg");
     height: 100%;
     width:100%;;
     }
