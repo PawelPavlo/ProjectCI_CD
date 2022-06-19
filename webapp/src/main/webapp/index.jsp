@@ -10,8 +10,8 @@
     justify-content: center;
     align-items: center;
     background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-photo-1591447.jpeg");
-    height: 400px;
-    width:450px;;
+    height: 100%;
+    width:100%;;
     }
     h1,h2{
     text-align: center;
