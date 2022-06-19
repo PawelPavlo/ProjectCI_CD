@@ -9,7 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("https://www.pexels.com/photo/wooden-long-table-with-brown-chairs-7195551/");
+    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-photo-1591447.jpeg");
     height: 400px;
     width:450px;;
     }
