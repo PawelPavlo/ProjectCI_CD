@@ -9,7 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#115cce, #c6f12b);;
+    background: linear-gradient(#f3f5f7, #c6f12b);;
     }
     h1,h2{
     text-align: center;
