@@ -22,7 +22,6 @@
 
      <h1> Hello, Welcome to Pavlo Vikhrak DevOps Project !! </h1>
      <h1> Deploying using ansible and Docker </h1>
-     <h2> Solja Pruvit </h2>
      <h1> CICD PipeLine using GCP</h1>
      <h2> Good Evening All </h2>
 
