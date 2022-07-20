@@ -9,7 +9,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#05478a, #c6f12b);;
+    background-image: url("https://storage.cloud.google.com/image-bucket-vikhrak/pexels-pixabay-531880.jpg");
+    height: 100%;
+    width:100%
     }
     h1,h2{
     text-align: center;
@@ -20,10 +22,7 @@
 
 <div>
 
-     <h1> Hello, Welcome to Pavlo Vikhrak DevOps Project !! </h1>
-     <h1> Deploying using ansible and Docker </h1>
-     <h1> CICD PipeLine using GCP</h1>
-     <h2> Good Evening All </h2>
+     <h1> Thank you for attention!! </h1>
 
 </div>
 
